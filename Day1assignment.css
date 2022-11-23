@@ -1,0 +1,17 @@
+body{background-color:red;
+
+}
+.Assignment{
+    color:black;
+    width:400px ;
+    height: 500px;
+    border:1px solid black;
+}
+table,
+th,
+tr,
+td {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}

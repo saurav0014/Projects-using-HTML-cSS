@@ -1,0 +1,17 @@
+
+h1{ text-align:left;
+     
+    color:blue;
+}
+p{
+    background-color: powderblue;
+    color: brown;
+}
+table,
+        th,
+        tr,
+        td {
+            padding: 10px;
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
