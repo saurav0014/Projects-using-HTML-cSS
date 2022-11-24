@@ -1,0 +1,105 @@
+ .MI{
+    color:blue;
+    text-align:justify;
+    text-decoration: aqua;
+
+} 
+
+
+
+
+
+
+#RCB{
+    color:red ;
+    text-align:justify;
+}
+input{
+    width: 24%; 
+    height: 32px;
+    padding:1px;
+    border-radius:61px;
+    color: red;
+    font-weight: 550;
+    margin: 10px;
+    border: 4px solid black
+    ;
+} 
+
+/* input:disabled{
+    width: 24%; 
+    height: 32px;
+    padding:1px;
+    border-radius:61px;
+    color:green
+    font-weight: 550;
+    margin: 10px;
+    border: 4px solid black
+} */
+button{
+    width: 200px;
+    height:40px ;
+    background-color: pink;}
+    button:hover{
+        background-color:aqua;
+        cursor:pointer
+    }
+    table,
+    th,
+    tr,
+    td {
+        padding: 10px;
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
+    tr:nth-child(2n){
+        color: red;
+    }
+    tr:nth-child(2n+1){
+        color: grey;
+    }
+
+    ::placeholder{
+        color: green;
+    }
+:required{
+    color: red;
+}
+.link{
+    color:black;
+    text-decoration:underline red dotted;
+
+}
+.link:hover{
+    color:green ;
+    cursor: cell;
+
+}
+
+p:nth-child(2n){
+    color:red;
+    
+}
+p:nth-child(2n+1){
+    color:green;}
+    .css{
+        color:green;
+    border:1px solid black;
+    height: 233px;
+    width: 552px;
+}
+.intron{
+    border:1px solid black;
+    height:81px;
+    width: 552px;
+
+
+
+}
+.important{
+    background-color: yellow;
+    color:red ;
+}
+
+
+
