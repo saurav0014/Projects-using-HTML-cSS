@@ -1,0 +1,13 @@
+h1{
+
+    text-transform: capitalize;
+
+}
+p{
+    
+line-height:1 ;
+}
+div>h1{
+    color: red;
+    text-align: center;
+}

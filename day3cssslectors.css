@@ -1,0 +1,38 @@
+/* h1{
+    text-align:center;
+    letter:spacing 1px;
+    text-decoration: ;
+    text-transform: capitalize; 
+}
+
+p{  text-indent:30% ;
+    text-align:justify;
+    letter: spacing 1px; ;
+} */
+/* .heading{
+    color:black;
+    border: 1px solid black;
+    height: 400px;
+    width: 900px;
+    text-align: center;
+    line height:1px ; */
+    
+h1{
+    background-color: green;
+    width:50% ;
+}.A{
+    color:chartreuse ;
+    width:50% ;
+    text-align: justify;
+}
+.a{
+    text-align: justify;
+    width: 50%;
+}
+.b{
+    width:50% ;
+    color: red;
+}
+.ab{
+    word-spacing:211px ;
+}
