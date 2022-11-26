@@ -1,0 +1,64 @@
+ .a{
+    
+    
+        margin-left:30px;
+        list-style-type:circle ;
+
+ }
+
+ .b{
+     margin-left:30px;
+     list-style-type:disc
+ }
+ .c{
+     margin-left:30px;
+     list-style-type:decimal
+ }
+    
+ .d{
+     margin-left:30px;
+     list-style-type:lower-alpha
+ }
+     .e{
+          
+     margin-left: 30px;
+     list-style-type: lower-roman;
+     }
+     .f{
+          margin-left:30px;
+          list-style-type:lower-roman;
+          list-style-position: outside;
+       }
+       .g{
+          margin-left:30px;
+          list-style-type:lower-alfa inside;
+          /* list-style-position: inside; */
+       }
+       
+
+       .h{padding: 40px ;
+          margin-left:30px;
+          list-style-image:url(https://img.icons8.com/color/35/000000/maple-leaf.png) ;
+          list-style-position: inside;}
+          .i{
+               margin-left:30px;
+               list-style-image:url(./joker-backgrounds-for-laptop-wallpaper-preview.jpg);
+               list-style-position:outside;}
+          
+          .j{
+               margin-left:30px ;
+               list-style-image:url(./joker-wallpaper.jpg) ;
+               list-style-position:inside;
+          }
+          .k{
+          margin-left:30px ;
+          list-style-image:url(./joker-backgrounds-for-laptop-wallpaper-preview.jpg) ;
+          list-style-position:outside ;
+          }
+          .j{
+               
+          }
+          
+        
+
+       
