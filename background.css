@@ -1,0 +1,39 @@
+
+ .abc {
+    width: 100%;
+    height: 800px;
+    background-color: yellow;
+    background-image: url(https://www.shutterstock.com/image-vector/joker-face-white-bacground-260nw-1499605832.jpg);
+    background-repeat: repeat;
+}
+
+.efg {
+    width: 100%;
+    height: 800px;
+    background-color: yellow;
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/9/90/HeathJoker.png);
+    background-repeat: repeat-y;
+    
+}
+
+.jkl {
+    width: 100%;
+    height: 800px;
+    background-color: yellow;
+    background-image: url(./saurav\ \(1\).jpg);
+    background-repeat: space;
+
+}
+
+div {
+    width: 250px;
+    height: 250px;
+    border: 2px solid red;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+    #div1{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScqz9EBPAiB88kjbKoV0mUf5Jf44hkzIj60w&usqp=CAU'), 
+    url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nyaXcrh_MJAiC0IVybgzBNJlOhYWJkOMjOaGrNAY&s');
+    background-size: 200px 150px, cover;
+    }
