@@ -3,23 +3,34 @@
     
         margin-left:30px;
         list-style-type:circle ;
+        color:red ;
 
  }
 
- .b{
+ .b{  
      margin-left:30px;
      list-style-type:disc
+     
  }
  .c{
      margin-left:30px;
-     list-style-type:decimal
+     list-style-type:decimal;
+     text-decoration:underline red dotted 5px  ;
+     
  }
+ /* li:nth-child(2)
+ {
+    color: blue;
+ }   
+     */
+ 
     
  .d{
      margin-left:30px;
      list-style-type:lower-alpha
  }
      .e{
+        
           
      margin-left: 30px;
      list-style-type: lower-roman;
@@ -28,6 +39,10 @@
           margin-left:30px;
           list-style-type:lower-roman;
           list-style-position: outside;
+
+       }
+       li::marker{
+        color: red;
        }
        .g{
           margin-left:30px;
@@ -42,8 +57,9 @@
           list-style-position: inside;}
           .i{
                margin-left:30px;
-               list-style-image:url(./joker-backgrounds-for-laptop-wallpaper-preview.jpg);
+               /* list-style-image:url(./joker-backgrounds-for-laptop-wallpaper-preview.jpg); */
                list-style-position:outside;}
+
           
           .j{
                margin-left:30px ;
@@ -55,10 +71,13 @@
           list-style-image:url(./joker-backgrounds-for-laptop-wallpaper-preview.jpg) ;
           list-style-position:outside ;
           }
-          .j{
-               
+          .jjjj:before{
+            
           }
-          
+          .jjjj::{
+            content:"\2663" ;
+          }
+        
         
 
        
