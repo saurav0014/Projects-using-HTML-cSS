@@ -20,6 +20,8 @@ p{  text-indent:30% ;
 h1{
     background-color: green;
     width:50% ;
+    text-transform: capitalize;
+    text-align: center;
 }.A{
     color:chartreuse ;
     width:50% ;
@@ -32,7 +34,8 @@ h1{
 .b{
     width:50% ;
     color: red;
+    text-align: justify;
 }
 .ab{
-    word-spacing:211px ;
+    word-spacing:279px ;
 }
