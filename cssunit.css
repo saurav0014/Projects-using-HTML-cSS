@@ -1,0 +1,85 @@
+.box{
+    font-size: 25px;
+}
+.wrapper {
+    width: 400px;
+    border: 5px solid rebeccapurple;
+  }
+  
+  .px {
+    width: 200px;
+  }
+  
+  .percent {
+    width: 40%;
+  }
+  .box{
+    border: 5px solid rebeccapurple;
+  }
+   ul{
+    font-size:20px ;
+  }
+  li {
+    font-size:2em;  }  
+    .parent {
+        font-size: 18px;
+      }
+      .child {
+        font-size: 1.5em;
+        padding: 2em 1em;
+      }
+
+
+      .html {
+        font-size: 16px;
+      }
+      .parenta {
+        font-size: 15px;
+      }
+      .childa-rem {
+        font-size: 2rem;
+      }
+     .saurav{
+        height: 50vh;
+        font-size: larger;
+        margin: 20px;
+        }
+        .nandan{
+            margin: 10px;
+            border: 2px solid #aaccff;	
+            padding: 10px 45px 60px 75px;
+        }
+        section {
+            	border: 4px solid #000000;}
+                .v2v{border: 5px solid red;
+                margin: 0px;}
+                
+                .vip{
+                    border: 4px solid #000000;
+                    margin-top: 20px;        
+                }
+                
+                .v2m{border: 5px solid red;
+                    margin: 30px;}
+
+                
+                   .cointent{
+                    border: 3px solid #11ccff;
+                    width: 400px;
+                    height: 400px;
+                    padding: 50px;
+                    margin: 50px;
+                
+                   }
+                   .drdo{
+                    width: 200px;
+                    height: 200px;
+                    padding: 24px;
+                    margin: 16px;
+                    border:1px solid #11ccff;
+                    box-sizing: content-box;
+                   }
+
+                   
+       
+  
